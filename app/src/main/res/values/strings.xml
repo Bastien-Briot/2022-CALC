@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="BTN12">12</string>
+    <string name="BTNC">C</string>
+    <string name="BTN_Fois">*</string>
+    <string name="BTN_Diviser">/</string>
+    <string name="BTN1">1</string>
+    <string name="BTN2">2</string>
+    <string name="BTN3">3</string>
+    <string name="BTN_Plus">+</string>
+    <string name="BT_Egal">=</string>
+    <string name="BT_Virgule">,</string>
+    <string name="BT0">0</string>
+    <string name="BT_Effacer">D</string>
+    <string name="BT_Pourcent">%</string>
+    <string name="BT9">9</string>
+    <string name="BT8">8</string>
+    <string name="BT7">7</string>
+    <string name="BT_Moins">-</string>
+    <string name="BT6">6</string>
+    <string name="BT5">5</string>
+    <string name="BT4">4</string>
+</resources>
