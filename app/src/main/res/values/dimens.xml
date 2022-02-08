@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="BTN_MARGIN_R">20dp</dimen>
+    <dimen name="TX_SIZE">40sp</dimen>
+    <dimen name="TX_END_MARGIN">140dp</dimen>
+    <dimen name="BTN_WIDTH">70dp</dimen>
+    <dimen name="BTN_HEIGHT">70dp</dimen>
+    <dimen name="BTN_SECOND_WIDTH">160dp</dimen>
+    <dimen name="BTN_TX_SIZE">25sp</dimen>
+    <dimen name="BTN_MARGIN">10dp</dimen>
 </resources>
